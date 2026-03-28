@@ -1,0 +1,47 @@
+🚀 Mi Perfil Técnico: Rigel Alonso Villanueva Soberanis
+Backend Developer | Especialista en Aplicaciones Android & Lógica de Datos
+
+🏗️ Mi Stack Tecnológico (El "Por qué" de mis herramientas)
+Me enfoco en construir software que sea robusto por dentro y funcional por fuera. Esta es la base de mi trabajo:
+
+Desarrollo Backend (Mi fuerte)
+Node.js & Express.js: Los utilizo para construir servidores de alto rendimiento. Me permiten manejar múltiples conexiones de forma asíncrona, lo que garantiza que mis aplicaciones sean rápidas y no se bloqueen bajo carga.
+
+Python: Es mi lenguaje de elección para resolver problemas lógicos complejos y procesar datos. Lo uso cuando necesito escribir algoritmos limpios que requieran una ejecución precisa.
+
+C# (.NET): Lo domino para el desarrollo de software estructurado. Me ha dado la disciplina de trabajar con tipado fuerte, lo que me ayuda a prevenir errores desde la etapa de compilación en proyectos de gran escala.
+
+Desarrollo Móvil y Frontend
+Dart (Flutter): Mi herramienta principal para el desarrollo móvil. Me especializo en crear aplicaciones para Android completas y detalladas, cuidando tanto la arquitectura interna como la experiencia del usuario final.
+
+React & Angular: Los utilizo para crear interfaces web dinámicas. Elijo React cuando busco agilidad y Angular cuando el proyecto requiere una estructura más rígida y corporativa.
+
+HTML5 & CSS3: Mi base para la maquetación web, enfocándome siempre en código limpio y tiempos de carga mínimos.
+
+Gestión de Bases de Datos
+PostgreSQL (vía Supabase): Soy experto en SQL. Uso esta combinación para gestionar datos relacionales complejos, aprovechando las funciones de tiempo real y autenticación que ofrece Supabase para mis proyectos.
+
+SQL Server & MySQL: Los manejo para arquitecturas de datos tradicionales, asegurando siempre la integridad y normalización de la información.
+
+MongoDB: Mi opción cuando trabajo con modelos NoSQL, permitiéndome flexibilidad en el manejo de documentos y datos no estructurados.
+
+📁 Proyecto Destacado: SubLegados Tours
+Este proyecto representa mi capacidad para resolver problemas reales mediante tecnología:
+
+El Problema: La falta de digitalización para los guías de turismo en las zonas de cenotes en Cuzamá y Homún.
+
+Mi Solución: Desarrollé una plataforma integral con arquitectura separada. El Frontend es ligero para funcionar en zonas con poco internet, mientras que el Backend en Express gestiona las rutas y la seguridad.
+
+Implementación: Utilicé Supabase para manejar la base de datos de los tours en tiempo real, asegurando que la disponibilidad de los guías sea siempre exacta.
+
+🧠 Mis Skills y Aptitudes Profesionales
+Resolución de Retos Lógicos: Disfruto desglosar problemas complejos en piezas de código manejables. Mi enfoque no es solo que el código funcione, sino que sea eficiente.
+
+Desarrollo Android Detallado: Al usar Dart, no me limito a lo básico; me aseguro de que la aplicación sea robusta, maneje bien los estados y ofrezca una navegación fluida en dispositivos Android.
+
+Aprendizaje Autodidacta: Mi trayectoria demuestra que puedo dominar nuevas tecnologías (como el paso de JS a Dart o C#) en tiempo récord. Soy capaz de investigar y aplicar soluciones nuevas de manera constante.
+
+Arquitectura Limpia: En mis repositorios de GitHub, como el de SubLegados-Tours, mantengo una estructura de carpetas organizada para que el código sea fácil de leer, mantener y escalar.
+
+📍 Identidad y Metas
+Soy estudiante de Ingeniería en TI en la UTM (Mérida) y vivo en Cuzamá, Yucatán. Mi objetivo actual es aplicar todos estos conocimientos en mis estadías profesionales, donde pueda contribuir al backend de una empresa real y seguir perfeccionando mis habilidades en el desarrollo de software multiplataforma.
