@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Carpetas de recursos originales (no subir)
+Documentacion/
+imagenes/
