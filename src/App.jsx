@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="relative w-full min-h-screen">
+    <div className="relative w-full max-w-[100vw] overflow-x-hidden min-h-screen flex flex-col">
       <Navbar />
       <main>
         <Hero />
